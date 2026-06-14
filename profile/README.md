@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Subs-Curated-Bindings/.github/main/profile/assets/logo-white.png">
+    <img src="https://raw.githubusercontent.com/Subs-Curated-Bindings/.github/main/profile/assets/logo-color.png" alt="SubliminalsTV Curated Bindings" width="200">
+  </picture>
+</p>
+
 # 🕹️ SubliminalsTV — Curated Joystick Bindings
 
 The open-source home for my **Star Citizen** joystick binding configs. Each stick I support lives in its own repository — clone only the one you fly.
